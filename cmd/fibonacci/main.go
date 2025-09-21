@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/seu-usuario/meu-projeto-go/internal/fibonacci"
+	"github.com/Adrianotorres411/meu-projeto-go/internal/fibonacci"
 )
 
 func main() {
